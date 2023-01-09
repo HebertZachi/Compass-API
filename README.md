@@ -17,4 +17,4 @@ A aplicação consiste em realizar operações de CRUD, onde os dados são colet
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### More: \[[Documentação](https://github.com/HebertZachi/Compass-API/wiki)] 
+### More: \[[https://github.com/HebertZachi/Compass-API/wiki/Documenta%C3%A7%C3%A3o)] 
