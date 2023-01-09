@@ -9,4 +9,12 @@ Compass API é uma aplicação backend construída durante a 4ª semana do progr
 
 A aplicação consiste em realizar operações de CRUD, onde os dados são coletados através do body.json em ferramentas como Postman ou Insomnia, e depois são armazenados em um banco de dados.
 
-### More: \[[Getting Started](https://github.com/dylanaraps/pywal/wiki/Getting-Started)] \[[v1 - Compass API](https://github.com/dylanaraps/pywal/wiki/Customization)] \[[v2 - Compass API + MongoDB](https://github.com/dylanaraps/pywal/wiki)]
+### Tecnologias Utilizadas
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### More: \[[Documentação](https://github.com/dylanaraps/pywal/wiki/Getting-Started)] \[[Vídeo - Demo](https://github.com/dylanaraps/pywal/wiki/Customization)] 
